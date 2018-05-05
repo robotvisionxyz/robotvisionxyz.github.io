@@ -4,7 +4,7 @@ email:       aseem.bits@gmail.com
 author:      Aseem Saxena
 description: "Minimal Blog"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://robotvisionxyz.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
