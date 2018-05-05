@@ -1,0 +1,32 @@
+# Site settings
+title:       Blog
+email:       aseem.bits@gmail.com
+author:      Aseem Saxena
+description: "Minimal Blog"
+baseurl:     ""
+url:         "http://pixyll.com"
+date_format: "%b %-d, %Y"
+header_pages:
+ - about.md
+
+enable_mathjax: true
+extended_fonts: true
+enable_anchorjs: true
+
+text:
+  post:
+    minute_read:    'minute read'
+  
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+sass:
+  style: compressed
+plugins:
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
