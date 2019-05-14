@@ -15,7 +15,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.9)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.5)
     dnsruby (1.60.2)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
@@ -247,4 +247,4 @@ DEPENDENCIES
   github-pages
 
 BUNDLED WITH
-   1.16.1
+   1.17.3

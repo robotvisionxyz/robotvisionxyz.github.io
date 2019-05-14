@@ -5,16 +5,10 @@ permalink: /about/
 tags: about
 ---
 
-Hi! Welcome to my blog! 
+Hola! Welcome to my blog! (I am still figuring out what to write here, will keep updating this section)
 
-[Minimalism](http://mnmlist.com/) is the way to go, especially in the 21st Century with so much noise that it is hard to decipher the signal.
+I express my thoughts here on anything which comes under the sun.  
+Machine Learning Engineer/Researcher by day, Musician/Dreamer by night.  
+To know more about my professional work, go [here](https://aseembits93.github.io).  
+Feel free to shoot an [Email](aseem.bits@gmail.com) for discussions.  
 
-I do research. Look [here](https://aseembits93.github.io/)! 
-
-Apart from research, I am very much into playing music, running, swimming and cycling. 
-
-Checkout my music performances and research videos on [Youtube](https://www.youtube.com/channel/UCS-mAkSQheveU4dI78Sv1GQ), [Soundcloud](https://soundcloud.com/aseem-saxena)! Find me on [Github](https://github.com/aseembits93)! or just shoot over an [email](mailto:aseem.bits@gmail.com)! I click photographs ocassionally - [Photos](https://photos.app.goo.gl/DQDbqK14yfCn2DmKA).
-
-PS: A big thanks to John Otander for gifting the world this amazing [website theme](http://pixyll.com/)! 
-
-Cheers!
