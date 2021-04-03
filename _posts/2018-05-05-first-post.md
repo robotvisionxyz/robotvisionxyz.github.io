@@ -3,7 +3,6 @@ layout:     post
 title:      First Post
 date:       2018-05-05
 summary:    Removing a lot from a minimal theme itself
-categories: jekyll pixyll
 ---
 
 Hello.
