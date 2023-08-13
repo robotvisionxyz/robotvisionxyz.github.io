@@ -10,5 +10,5 @@ Hola! Welcome to my blog! (I am still figuring out what to write here, will keep
 I express my thoughts here on anything which comes under the sun.  
 Machine Learning Engineer/Researcher by day, Musician/Dreamer by night.  
 To know more about my professional work, go [here](https://aseembits93.github.io).  
-Feel free to shoot an [Email](mailto:aseem.bits@gmail.com) for discussions.  
+Feel free to shoot an [email](mailto:aseem.bits@gmail.com) for discussions.  
 
